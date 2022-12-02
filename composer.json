@@ -11,8 +11,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.4",
-        "moltin/tax2": "1.0.0",
-        "moltin/currency2": "1.0.0"
+        "moltin/tax": "1.0.0",
+        "moltin/currency": "1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "9.*"
